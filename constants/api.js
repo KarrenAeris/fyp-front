@@ -1,0 +1,1 @@
+export const APIKEY = "http://16.16.252.55"
